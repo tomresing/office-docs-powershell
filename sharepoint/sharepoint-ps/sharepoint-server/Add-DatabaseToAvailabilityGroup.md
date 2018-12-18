@@ -10,7 +10,7 @@ schema: 2.0.0
 ## SYNOPSIS
 Adds one or more SharePoint databases to a SQL Server Availability Group
 
-## SYNTAX
+### SYNTAX
 
 ### Default
 ```
